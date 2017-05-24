@@ -1,0 +1,16 @@
+{
+  "name": "selenium-ivor-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Tim Douglas",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mocha": "^3.4.1",
+    "selenium-webdriver": "^3.4.0"
+  }
+}
